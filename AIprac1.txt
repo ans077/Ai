@@ -76,3 +76,5 @@ def a_star_algorithm(start, stop):
 start=input("START CITY : ")
 goal=input("GOAL CITY : ")
 a_star_algorithm(start, goal)
+
+//input= 5,S,6,3,A,2,B,4,C,6,A,7,1,G,2,B,7,1,G,3,C,6,1,G,4,G,1,0,S,G
